@@ -5,3 +5,6 @@ If the user enters a letter that is in the word, that letter is saved, and subse
 If the user enters a letter that is not in the word, it is replaced by an asterisk (*).
 If the word the user forms matches the secret word, a message appears; the same happens if the user fails to guess the word correctly.
 The machine also gives the user an initial hint indicating the word's starting letter.
+The messages in the code are in Portuguese because I'm Brazilian, but if I happen
+to modify this code, I will change the messages to English so that everyone
+reading the code can understand them.
